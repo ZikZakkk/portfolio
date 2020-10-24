@@ -1,0 +1,111 @@
+@media (max-width:375px) {
+    .wripper {
+        max-width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    h3 {
+        width: 25px;
+    }
+    .hf1 h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    p {
+        font-size: 12px;
+    }
+    .section1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .section1_1 {
+        width: 300px;
+    }
+    .section1_2 {
+        display: flex;
+        flex-direction: column;
+        width: 300px;
+    }
+    .section2_1 hr {
+        width:300px;
+    }
+    .section2_2 {
+        width:375px;
+    }
+    .section2_2 a {
+        font-size: 10px;
+    }
+    .section2_3 img {
+        width: 80px;
+    }
+    .section3 {
+        width: 375px;
+    }
+    .section3_1 {
+        width: 375px;
+        margin-left: 3px;
+    }
+    .section3_2  {
+        width: 375px;
+    }
+    .section3_2 div {
+        width: 250px;
+    }
+    .section3_2 img {
+        margin-right: 4px;
+        width: 80px;
+    }
+    .setion3_2_1 {
+        width: 375px;
+    }
+    .setion3_2_1 a {
+        text-decoration: none;
+        font-style: italic;
+        font-size: 10px;
+    }
+
+    .section3_2_2 {
+        display: flex;
+        width: 375px;
+    }
+    .section3_2_2 img {
+        width: 65px;
+    }
+    .section4 input {
+        margin-bottom: 30px;
+    }
+    .section5_1 {
+        width: 375px;
+    }
+    .section5_1 hr{
+        width: 100px;
+        color:red;
+        border: 1px solid;
+    }
+    .section5_2 {
+        display:flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .section5_2_1 input {
+        width: 200px;
+        height: 25%;
+        margin-bottom: 10px;
+    }
+    .section5_2_1 button {
+        margin-bottom: 20px;
+        width:375px;
+    }
+    #textarea {
+        margin-top: 5%;
+        width: 360px;
+        height: 200px;
+    }
+    .section5_2_2 {
+        width: 340px;
+        padding-left: 10%;
+        padding-top: 10%;
+    }
+}
